@@ -1,0 +1,10 @@
+model,time_sec
+tiny,49.43
+base,47.98
+small,682.42
+medium,774.36
+large,319.63
+large-v1,316.56
+large-v2,33.47
+large-v3,328.17
+large-v3-turbo,232.89
